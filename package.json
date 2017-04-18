@@ -1,0 +1,12 @@
+{
+  "name": "fittext.js",
+  "version": "1.2.0",
+  "description": "a jquery plugin for inflating web type",
+  "main": "index.js",
+  "repository": "https://github.com/mike3run/FitText.js.git",
+  "author": "Dave Rupert",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": ">=1.6.2"
+  }
+}
