@@ -1,5 +1,5 @@
 {
-  "name": "fittext.js",
+  "name": "fittextjs",
   "version": "1.2.0",
   "description": "a jquery plugin for inflating web type",
   "main": "index.js",
