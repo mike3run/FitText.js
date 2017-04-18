@@ -1,3 +1,6 @@
+# Attention:
+This is merely a mirror of the original code and wrapped in UMD so it can be used with browserify or webpack.
+Please take a look at the [original one](https://github.com/davatron5000/FitText.js)
 # FitText.js, a jQuery plugin for inflating web type
 FitText makes font-sizes flexible. Use this plugin on your responsive design for ratio-based resizing of your headlines.
 
